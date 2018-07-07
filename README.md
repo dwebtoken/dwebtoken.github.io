@@ -280,4 +280,4 @@ ask bid 호가가 발생할수있는점을 알고있습니다. 하지만 이를
 - medium
 - stackexchange
 - dwebtoken.dlist.io ![Asset](https://img.shields.io/liberapay/receives/Changaco.svg) ![PyPI - Status](https://img.shields.io/pypi/status/Django.svg)
-- [Download PDF](https://github.com/dwebtoken/dwebtoken.github.io/blob/master/DRAFT.pdf)
+- [Download PDF](https://github.com/dwebtoken/dwebtoken.github.io/raw/master/DRAFT.pdf)
