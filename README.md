@@ -270,6 +270,7 @@ ask bid 호가가 발생할수있는점을 알고있습니다. 하지만 이를
 
 # Reference
 
+- [Release Notes](https://www.notion.so/Dwebtoken-Release-Notes-ko-KR-8b58e83e5b6f4bc29b5aa62bcff10752)
 - [Dwebtoken Improvement Proposal repository: DIP](#none)
 - Github repository [dwebtoken/core](#none)
 - Github repository [dwebtoken/dlist](#none)
